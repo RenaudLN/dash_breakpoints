@@ -283,5 +283,6 @@ deps/
 inst/
 man/
 R/
+dash_breakpoints/
 src/jl/
 *.jl

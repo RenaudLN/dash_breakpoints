@@ -1,0 +1,13 @@
+Package: dashBreakpoints
+Title: Component to listen to the elements and window resize
+Version: 0.1.0
+Description: Component to listen to the elements and window resize
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/RenaudLN/dash-breakpoints
+BugReports: https://github.com/RenaudLN/dash-breakpoints/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
